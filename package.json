@@ -1,7 +1,11 @@
 {
   "name": "@nonplanarslicer/pi-save-output",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Save the last assistant message to a markdown file via /save-output",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christophacham/pi-save-output.git"
+  },
   "keywords": ["pi-package"],
   "type": "module",
   "main": "index.ts",
