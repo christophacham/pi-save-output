@@ -1,6 +1,6 @@
 {
   "name": "pi-save-output",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Save the last assistant message to a markdown file via /save-output",
   "keywords": ["pi-package"],
   "type": "module",
