@@ -1,6 +1,6 @@
 {
   "name": "@nonplanarslicer/pi-save-output",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Save the last assistant message to a markdown file via /save-output",
   "keywords": ["pi-package"],
   "type": "module",
@@ -10,7 +10,6 @@
     "extensions": ["./index.ts"]
   },
   "peerDependencies": {
-    "@mariozechner/pi-coding-agent": "*",
-    "typebox": "*"
+    "@mariozechner/pi-coding-agent": "*"
   }
 }
