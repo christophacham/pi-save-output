@@ -1,0 +1,16 @@
+{
+  "name": "pi-save-output",
+  "version": "1.0.0",
+  "description": "Save the last assistant message to a markdown file via /save-output",
+  "keywords": ["pi-package"],
+  "type": "module",
+  "main": "index.ts",
+  "files": ["index.ts"],
+  "pi": {
+    "extensions": ["./index.ts"]
+  },
+  "peerDependencies": {
+    "@mariozechner/pi-coding-agent": "*",
+    "typebox": "*"
+  }
+}
